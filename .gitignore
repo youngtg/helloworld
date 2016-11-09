@@ -7,6 +7,12 @@
 *.userosscache
 *.sln.docstates
 
+
+# ignore a single file
+Project_Readme.html
+
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
