@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 namespace HelloWorldApp
 {
     public class Program
-    {AAA
+    {
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
